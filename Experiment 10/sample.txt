@@ -1,0 +1,3 @@
+Hello Python
+File Handling Example
+Appending new line
